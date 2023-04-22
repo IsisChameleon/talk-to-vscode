@@ -1,0 +1,6 @@
+config/**
+.vscode/**
+.vscode-test/**
+dist/**
+node_modules/**
+vsc-extension-quickstart.md
